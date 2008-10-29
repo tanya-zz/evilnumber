@@ -4,7 +4,9 @@
 
 <body>
     <h1>Are you an evil number?</h1>
-  
+    <div>
+	<input type="image" src="/~~/f?name=evil.GIF"/>  
+    </div>
    <div class="formfield">
 	<label for="num">Which number are you? </label>
 	<input type="text" name="num">
